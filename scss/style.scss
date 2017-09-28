@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.box{
+    width: 1080px;
+    height: 1920px;
+    background: url(../img/bg.png);
+    background-size: 100% 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.head{
+    position: absolute;
+    text-align: center;
+    top: 61px;
+    left: 307px;
+}
+.head p{
+    color: #fff;
+    font-size: 30px;
+}
+.head .bl{
+    color: #2cc1ff;
+    font-size: 39px;
+}
+.head .grn{
+    color: #08cb7f;
+    font-size: 39px;
+}
+.content{
+    color: #fff;
+    position: absolute;
+    top: 250px;
+    right: 10px;
+    width: 585px;
+}
+.content h2{
+    font-size: 70px;
+}
+.content h2, .ri{
+    text-align: right;
+    line-height: 80px;
+}
+.ri{
+    font-size: 20px;
+}
+.content .duo{
+    line-height: 40px;
+    text-indent: 35px;
+}
+.one{
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+    overflow: hidden;
+    left: 270px;
+    top: 180px;
+    position: absolute;
+    border:10px #4c6eab solid;
+}
+.two{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    overflow: hidden;
+    left: 45px;
+    top: 310px;
+    position: absolute;
+    border:10px #4c6eab solid;
+}
+.three{
+    border:10px #247cc3 solid;
+    width: 265px;
+    height: 265px;
+    border-radius: 50%;
+    overflow: hidden;
+    left: 100px;
+    top: 545px;
+    position: absolute;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.icon-one{
+    position: absolute;
+    width: 864px;
+    height: 325px;
+    background: url(../img/6_02.png);
+    background-size: 100% 100%;
+    top: 858px;
+    left: 117px;
+    .time{
+        color: #fff;
+        position: absolute;
+        left: 55px;
+        top: 62px;
+        font-size: 25px;
+    }
+}
+.four{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    overflow: hidden;
+    right: 39px;
+    top:49px;
+    position: absolute;
+}
+.con-one{
+    color: #fff;
+    position: absolute;
+    left: 265px;
+    top:110px;
+}
+.class-one{
+    color: #fff;
+    position: absolute;
+    left: 187px;
+    top:184px;
+    font-size: 20px;
+    width: 240px;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+    border-radius:30px;
+    padding:17px;
+}
+.class-one span{
+    padding-right: 15px;
+    display: inline-block;
+}
+.class-one span:first-child{
+    border-right: 1px #fff solid;
+}
+
+.icon-two{
+    position: absolute;
+    width: 864px;
+    height: 325px;
+    background: url(../img/1.png);
+    background-size: 100% 100%;
+    top: 1218px;
+    left: 63px;
+    .time{
+        color: #fff;
+        position: absolute;
+        right: 55px;
+        top: 62px;
+        font-size: 25px;
+    }
+}
+.five{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    overflow: hidden;
+    left: 49px;
+    top: 49px;
+    position: absolute;
+}
+.con-two{
+    color: #fff;
+    position: absolute;
+    left: 490px;
+    top:96px;
+}
+.class-two{
+    color: #fff;
+    position: absolute;
+    top: 197px;
+    left: 466px;
+    font-size: 20px;
+}
+.class-two span{
+    padding-right: 15px;
+}
+
+
+.icon-three{
+    position: absolute;
+    width: 864px;
+    height: 325px;
+    background: url(../img/6_02.png);
+    background-size: 100% 100%;
+    top: 1560px;
+    left: 120px;
+    .time{
+        color: #fff;
+        position: absolute;
+        left: 55px;
+        top: 62px;
+        font-size: 25px;
+    }
+}
+.six{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    overflow: hidden;
+    right:38px;
+    top: 50px;
+    position: absolute;
+}
+.con-three{
+    color: #fff;
+    position: absolute;
+    left: 300px;
+    top:110px;
+}
+.class-three{
+    color: #fff;
+    position: absolute;
+    left: 207px;
+    top:178px;
+    font-size: 20px;
+    width: 240px;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+    border-radius:30px;
+    padding:17px;
+}
+.class-three span{
+    padding-right: 15px;
+    display: inline-block;
+}
+.class-three span:first-child{
+    border-right: 1px #fff solid;
+}
